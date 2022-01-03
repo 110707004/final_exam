@@ -9,8 +9,8 @@ body {
     font-size: 1rem;
   }
 .red{    
-    width: 130px;
-    height: 130px;
+    width: 125px;
+    height: 125px;
     background-color: #ff0000;
     border-radius:15px;
     position: absolute;
@@ -19,8 +19,8 @@ body {
 }
 
 .yellow{
-    width: 130px;
-    height: 130px;
+    width: 125px;
+    height: 125px;
     background-color: #ffe600;
     border-radius:15px;
     position: absolute;
