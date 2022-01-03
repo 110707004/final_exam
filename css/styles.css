@@ -1,0 +1,31 @@
+h1 {
+    color: #0000FF;
+    font-size: 3rem;
+    font-family: 'Helvetica';
+  }
+ 
+body {
+    color: #000000;
+    font-size: 1rem;
+  }
+.red{    
+    width: 125px;
+    height: 125px;
+    background-color: #ff0000;
+    border-radius:15px;
+    position: absolute;
+    z-index: -1;
+
+}
+
+.yellow{
+    width: 125px;
+    height: 125px;
+    background-color: #ffe600;
+    border-radius:15px;
+    position: absolute;
+    left:146px;
+    top:222px;
+    z-index: -1;
+
+}
